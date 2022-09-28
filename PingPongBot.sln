@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongBot.Bot", "Src\PingPongBot.Bot\PingPongBot.Bot.csproj", "{975116D7-519E-4706-9705-543F08631905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongBot.Commands", "Src\PingPongBot.Commands\PingPongBot.Commands.csproj", "{16DCC1A0-171A-4604-97CF-36BA6EECCB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongBot.Contracts", "Src\PingPongBot.Contracts\PingPongBot.Contracts.csproj", "{2C454BAE-8A3E-44B6-9F83-B9B008DF5E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975116D7-519E-4706-9705-543F08631905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975116D7-519E-4706-9705-543F08631905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975116D7-519E-4706-9705-543F08631905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975116D7-519E-4706-9705-543F08631905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DCC1A0-171A-4604-97CF-36BA6EECCB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DCC1A0-171A-4604-97CF-36BA6EECCB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DCC1A0-171A-4604-97CF-36BA6EECCB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DCC1A0-171A-4604-97CF-36BA6EECCB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C454BAE-8A3E-44B6-9F83-B9B008DF5E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C454BAE-8A3E-44B6-9F83-B9B008DF5E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C454BAE-8A3E-44B6-9F83-B9B008DF5E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C454BAE-8A3E-44B6-9F83-B9B008DF5E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

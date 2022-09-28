@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Discord.Net.WebSocket">
+        <HintPath>..\..\..\..\..\..\.nuget\packages\discord.net.websocket\3.8.1\lib\net6.0\Discord.Net.WebSocket.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
